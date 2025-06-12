@@ -1,11 +1,11 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/codexharoon">Muhammad Haroon</a> (codexharoon).</h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/mazhar-abbas-564bb4303/">Mazhar Abbas</a>.</h1>
 
 [![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codexharoon)
 [![twitter profile link](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thecodexharoon)
 [![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.gg/](https://discord.gg/MnDDrfE))
 
 ## 👨🏻‍💻 About me
-![profile view count](https://komarev.com/ghpvc/?username=codexharoon)
+![profile view count](https://komarev.com/ghpvc/?username=mzhrabbas1338)
 
  <img src="https://raw.githubusercontent.com/codexharoon/codexharoon/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 🙋‍♂️ Hi, i am Haroon a Software Engineer<br>
