@@ -9,7 +9,7 @@
 
  <img src="https://raw.githubusercontent.com/codexharoon/codexharoon/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 🙋‍♂️ Hi, i am Haroon a Software Engineer<br>
-⚡ Check my Portfolio ✨ https://codexharoon.com<br>
+⚡ Check my Portfolio ✨ https://mzhrabbas.com<br>
 📫 How to reach me: info@codexharoon.com<br>
 
 <br><b>🛠 Tech Stack</b><br>
